@@ -1,0 +1,6 @@
+{
+  "infoBoxes":
+    [
+      { "id": 1, "since": "2022-01-01 07:00", "to": "2022-12-31 23:59", "template": "components/info/Mise.vue" }
+    ]
+}
