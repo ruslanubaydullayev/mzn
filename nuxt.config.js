@@ -36,7 +36,7 @@ export default {
     prefetchLinks: false
   },
   generate: {
-    dir: 'public'
+    dir: 'my-site'
   },
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
